@@ -7,10 +7,7 @@ StickerKit is a web app along with an iOS SDK to make it easy for you to create 
 - Upload your stickers onto our website.
 - Download our sample Sticker App, input your Project Key, and Run the App!
 
-For a step-by-step tutorial, check out this guide: XXXX
-
-Or this YouTube video:
-[![Using StickerKit to Make a Sticker App](https://stickerkit.io/img/portfolio/upload-stickers.gif)](http://www.youtube.com/watch?v=9-gOCOu_KGU&f "Using StickerKit to Make a iMessage Sticker App")
+For a step-by-step tutorial, check out this guide: https://medium.com/@dmathewwws/using-stickerkit-to-build-an-imessage-sticker-app-28d301ee745d#.u7alqylza
 
 ## StickerKit's iOS SDK
 
