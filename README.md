@@ -5,7 +5,7 @@ StickerKit is a web app along with an iOS SDK to make it easy for you to create 
 ### Steps to creating a iMessage Sticker App using StickerKit
 - Create an account at http://stickerkit.io.
 - Upload your stickers onto our website.
-- Download our sample Sticker App, input your Project Key, and Run the App!
+- Download our [Example Sticker App](https://github.com/StickerKit/StickerKit-iMessage-Example-App), input your Project Key, and Run the App!
 
 For a step-by-step tutorial, check out this guide: https://medium.com/@dmathewwws/using-stickerkit-to-build-an-imessage-sticker-app-28d301ee745d#.u7alqylza
 
