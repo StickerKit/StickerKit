@@ -21,6 +21,6 @@ Builing an Android or Web App and want to get your Stickers?
 
 Use StickerKit's RESTful API.
 
-https://app.stickerkit.io/api/v1/<project_id>
+https://app.stickerkit.io/api/v1/<-project_id->
 
 Whenever a sticker is added / re-ordered / deleted for your project, the data from that endpoint will be updated.
